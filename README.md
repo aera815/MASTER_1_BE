@@ -1,1 +1,1 @@
-# MASTER_1_BE
+# UMC 7th MASTER_1 (BE)
